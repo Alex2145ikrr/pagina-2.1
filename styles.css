@@ -1,0 +1,19 @@
+@import url('http://fonts.googleapis.com/css2?family=pooins:wght@400;500;600;700;800;&display=swap');
+
+*{
+   margin: 0%;
+   padding: 0%;
+   box-sizing: border-box;
+   text-decoration: none;
+   list-style: none;
+}
+
+body{
+    font-family: 'poppins', sans-serif;
+    background-color: aqua;
+}
+
+img {
+    max-width: 100%;
+
+}
